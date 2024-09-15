@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Numerically-Stable
+- 👋 Hi, I’m Pranjal Saxena @Numerically-Stable
 - 👀 I’m interested in Computational Mechanics and applied mathematics especially in FEA
 - 🌱 I’m currently learning MATLAB and Python for use in FEA
 - 💞️ I’m looking to collaborate on Fracture mechanics problems
