@@ -1,3 +1,6 @@
+Extract mesh data (nodes and elements, including boundary elements/nodes) from abaqus input file
+adapted from WANG JI version https://github.com/whuwanji/readAbaqusInputFile
+
 - 👋 Hi, I’m Pranjal Saxena, PhD Scholar at Aerospace Department, IIT Kanpur @Numerically-Stable
 - 👀 I’m interested in Computational Mechanics and applied mathematics especially in FEA
 - 🌱 I’m currently learning MATLAB and Python for use in FEA
@@ -5,8 +8,7 @@
 - 📫 How to reach me -- contactpranjal02@gmail.com
 - ⚡ Fun fact: Pi the famous irrational number is represented as rational 22/7
 
-Extract mesh data (nodes and elements, including boundary elements/nodes) from abaqus input file
-adapted from WANG JI version https://github.com/whuwanji/readAbaqusInputFile
+
 
 <!---
 Numerically-Stable/Numerically-Stable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
