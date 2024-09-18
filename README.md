@@ -5,6 +5,9 @@
 - 📫 How to reach me -- contactpranjal02@gmail.com
 - ⚡ Fun fact: Pi the famous irrational number is represented as rational 22/7
 
+Extract mesh data (nodes and elements, including boundary elements/nodes) from abaqus input file
+adapted from WANG JI version https://github.com/whuwanji/readAbaqusInputFile
+
 <!---
 Numerically-Stable/Numerically-Stable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
