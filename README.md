@@ -1,6 +1,7 @@
 Extract mesh data (nodes and elements, including boundary elements/nodes) from abaqus input file
 adapted from WANG JI version https://github.com/whuwanji/readAbaqusInputFile
-YouTube tutorial video : https://youtu.be/Be4GkRBiSDE
+<br>YouTube tutorial video : https://youtu.be/Be4GkRBiSDE
+<br>Matlab File exchange : [![View read_mesh_abaqus on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/172870-read_mesh_abaqus)
 - 👋 Hi, I’m Pranjal Saxena, PhD Scholar at Aerospace Department, IIT Kanpur @Numerically-Stable
 - 👀 I’m interested in Computational Mechanics and applied mathematics especially in FEA
 - 🌱 I’m currently learning MATLAB and Python for use in FEA
